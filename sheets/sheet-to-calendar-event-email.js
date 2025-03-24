@@ -1,3 +1,9 @@
+// Customer:
+// Auto Fill Google Calendar
+// When new data entry is submitted, or once something goes under contract, all dates are automatically added onto peoples calendars.
+// Any changes to contract dates that are made after submitting original dates, people will get a notification and a calendar update.
+
+// Developer:
 // This function is triggered when the contract date in the Google Sheet is changed. 
 // It creates an event in Google Calendar and sends an email notification. 
 
